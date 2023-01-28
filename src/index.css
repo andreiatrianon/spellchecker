@@ -1,0 +1,15 @@
+u {
+  text-decoration-color: red;
+}
+
+p {
+  font-size: medium;
+}
+
+.ql-toolbar {
+  display: none;
+}
+
+.ql-tooltip > .ql-tooltip-arrow {
+  display: none;
+}
